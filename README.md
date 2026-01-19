@@ -4,6 +4,6 @@ if you wanna check out
 
 clone the repo and run the environment by :
 
-1.  git clone repolink
+1.  git clone https://github.com/udip15/django.git
 2.  cd django
 3.  python manage.py
